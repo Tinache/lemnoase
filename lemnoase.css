@@ -14,7 +14,6 @@ h1{
     color: rgb(133, 43, 15);
     text-align: center;
     font-family: 'Lobster', cursive;
-    font-size: 4em;
     }
     h2{
     color: rgb(22, 31, 114);
@@ -27,11 +26,6 @@ h1{
 color: rgb(87, 74, 32);
 font-size: 1.4em;
 
-img {
-
-    display: block;
-    margin: auto;
-}
 
     }
 
@@ -67,5 +61,16 @@ width: 60%
         a {
 
             margin: 2em;
+        }
+
+        .Prima {
+font-size: 40px;
+        }
+
+        .Doua
+        {
+            font-size: 80px;
+color: green;
+
         }
  
