@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 html {
 
-    scroll-behavior: smooth;
+    scroll-behavior: auto;
 }
 
 body {background-color: rgb(135, 202, 222);
@@ -27,6 +27,12 @@ h1{
 color: rgb(87, 74, 32);
 font-size: 1.4em;
 
+img {
+
+    display: block;
+    margin: auto;
+}
+
     }
 
     #pretvechi 
@@ -37,4 +43,29 @@ font-size: 1.4em;
       
         }
 
+        .imagine {
+
+            text-align: center;
+
+        }
+
+        blockquote
+        {
+font-size: medium;
+text-align: center;
+border: medium;
+border-style: dashed;
+border-width: 1px;
+border-color: green;
+border-radius: 10px;
+margin: 1em;
+width: 60%
+
+
+        }
+
+        a {
+
+            margin: 2em;
+        }
  
